@@ -68,7 +68,7 @@
 
 ## Github: создание репозитория.
 
-Язык разметки в markdown
+Разметка в формате markdown, основные теги:
 
 ```markdown
 
@@ -89,5 +89,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
+[Гид по markdown](https://www.markdownguide.org/basic-syntax/)
 
 ### [Форма для псевдонимов и ссылок на ваши репозитории](https://docs.google.com/forms/d/e/1FAIpQLSdKpcP6VAH9k1wKakpCwRrhHKbHmpIwXQdY5rO2ypvQkZ9z4w/viewform?usp=sf_link)
