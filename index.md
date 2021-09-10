@@ -1,13 +1,11 @@
-## Страница курса «Компьютерные инструменты лингвистического исследования» для программы бакалавриата «Эфиопия и арабский мир».
+## Страница курса «Компьютерные инструменты лингвистического исследования»
+###для программы бакалавриата «Эфиопия и арабский мир».
 
 На этой странице будут размещаться:
 - материалы к занятиям;
 - домашние задания;
 - сведения о дедлайнах;
 - оценки.
-
-[Семинар 2](https://polyatomson.github.io/kili_repository_example/seminar1)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -29,3 +27,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+[Семинар №1. Знакомство]((https://polyatomson.github.io/kili_repository_example/seminar1))
+[Семинар №2. Google Forms. Создание репозитория на Github](https://polyatomson.github.io/kili_repository_example/seminar2)
