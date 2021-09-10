@@ -19,4 +19,4 @@
 
 ### Оценки
 
-Пожалуйста, заполните [форму], чтобы присвоить себе псевдоним.
+Пожалуйста, заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLSdKpcP6VAH9k1wKakpCwRrhHKbHmpIwXQdY5rO2ypvQkZ9z4w/viewform?usp=sf_link), чтобы присвоить себе псевдоним.
