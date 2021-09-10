@@ -71,6 +71,7 @@
 Язык разметки в markdown
 
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -87,7 +88,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-```markdown
+```
 
-
-[Форма для псевдонимов и ссылок на ваши репозитории](https://docs.google.com/forms/d/e/1FAIpQLSdKpcP6VAH9k1wKakpCwRrhHKbHmpIwXQdY5rO2ypvQkZ9z4w/viewform?usp=sf_link)
+### [Форма для псевдонимов и ссылок на ваши репозитории](https://docs.google.com/forms/d/e/1FAIpQLSdKpcP6VAH9k1wKakpCwRrhHKbHmpIwXQdY5rO2ypvQkZ9z4w/viewform?usp=sf_link)
