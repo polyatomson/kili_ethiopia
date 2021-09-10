@@ -9,13 +9,13 @@
 
 ### Семинары
 
-**[Семинар №1.** Знакомство](https://polyatomson.github.io/kili_repository_example/seminar1)
+[Семинар №1. Знакомство](https://polyatomson.github.io/kili_repository_example/seminar1)
 
-**[Семинар №2.** Google Forms. Создание репозитория на Github](https://polyatomson.github.io/kili_repository_example/seminar2)
+[Семинар №2. Google Forms. Создание репозитория на Github](https://polyatomson.github.io/kili_repository_example/seminar2)
 
 ### Домашние задания
 
-**[ДЗ №1**]()
+[ДЗ №1]()
 
 ### Оценки
 
