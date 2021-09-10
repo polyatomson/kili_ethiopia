@@ -2,8 +2,10 @@
 ### (семинар 2)  
 
 Внимательно прочитайте требования к заданию.
-Загрузите ссылки на готовые гугл-форму и таблицу по [этой ссылке](https://docs.google.com/forms/d/e/1FAIpQLScp22njCRg0hKEb0EBA50BLtK7fxM0nlAu_avkhZH5090Jcew/viewform?usp=sf_link).
-Дедлайн 
+Загрузите ссылки на готовые гугл-форму и таблицу по [этой ссылке](https://docs.google.com/forms/d/e/1FAIpQLScp22njCRg0hKEb0EBA50BLtK7fxM0nlAu_avkhZH5090Jcew/viewform?usp=sf_link).  
+
+**Дедлайн**: 16 сентября 23:00  
+**Самый крайний срок (с потерей 30% от оценки)**: 19 сентября 23:00
 
 # Основное задание (максимум — 8 баллов)
 
