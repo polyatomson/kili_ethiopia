@@ -25,4 +25,4 @@
 
 ### Программа курса
 
-[(https://www.hse.ru/edu/courses/476782242)]
+[https://www.hse.ru/edu/courses/476782242](https://www.hse.ru/edu/courses/476782242)
