@@ -1,1 +1,0 @@
-# kili_repository_example
