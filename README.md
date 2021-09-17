@@ -9,17 +9,17 @@
 
 ### Семинары
 
-[Семинар №1. Знакомство](https://polyatomson.github.io/kili_ethiopia/seminar1)
+[Семинар №1. Знакомство](https://polyatomson.github.io/kili_ethiopia/seminars/s1)
 
 [Семинар №2. Лингвистические опросы с Google Forms](https://polyatomson.github.io/kili_ethiopia/seminars/s2)
 
 **Краткое содержание**. Для чего используются лингвистические опросы. Варианты дизайна опросов, основные правила. Возможности Google forms: множественный выбор, условные действия, рандомизация. Обработка ответов в таблице, формулы, функции (AVERAGE, IF, COUNTIF и др.). Относительные и условные ссылки. Условное форматирование.
 
-[Семинар №3. Знакомство с Github: создание репозитория](https://polyatomson.github.io/kili_ethiopia/seminar3)
+[Семинар №3. Знакомство с Github: создание репозитория](https://polyatomson.github.io/kili_ethiopia/seminars/s3)
 
 ### Домашние задания
 
-**[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz1)**
+**[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz/dz1)**
 
 Вывешено 21:50 10-го сентября. Дедлайн — 23:00 16-го сентября
 
