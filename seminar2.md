@@ -65,31 +65,3 @@
 Сделайте новую вкладку, куда бы переносились все ответы, за исключением ответов «недобросовестных» респондентов. Недобросовестными будем считать тех, кто всегда отвечает одинаково.
 
 > Может пригодиться: функция IF, IFERROR, STDEV, знак $, find and replace.
-
-
-## Github: создание репозитория.
-
-Разметка в формате markdown, основные теги:
-
-```markdown
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
-[Гид по markdown](https://www.markdownguide.org/basic-syntax/)
-
-### [Форма для псевдонимов и ссылок на ваши репозитории](https://docs.google.com/forms/d/e/1FAIpQLSdKpcP6VAH9k1wKakpCwRrhHKbHmpIwXQdY5rO2ypvQkZ9z4w/viewform?usp=sf_link)
