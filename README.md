@@ -17,6 +17,8 @@
 
 [Семинар №3. Знакомство с Github: создание репозитория](https://polyatomson.github.io/kili_ethiopia/seminars/s3)
 
+[Семинар №4. Html-разметка](https://polyatomson.github.io/kili_ethiopia/seminars/s4)
+
 ### Домашние задания
 
 **[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz/dz1)**
