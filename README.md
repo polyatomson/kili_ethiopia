@@ -31,7 +31,7 @@
 
 ### Оценки
 
-Будут опубликованы после выбора псевдонимов
+<https://docs.google.com/spreadsheets/d/1zB96Vz2pyA59865OWXXzCWTeNonGwtVZf8vsY6XfqOE/edit?usp=sharing>
 
 ### Программа курса
 
