@@ -31,7 +31,7 @@
 
 Вывешено 00:20 18-го сентября. Дедлайн — 24:00 23-го сентября
 
-**[ДЗ №2](https://polyatomson.github.io/kili_ethiopia/dz/dz3)**
+**[ДЗ №3](https://polyatomson.github.io/kili_ethiopia/dz/dz3)**
 
 Вывешено 05:00 10-го октября. Дедлайн — 23:00 16-го октября
 
