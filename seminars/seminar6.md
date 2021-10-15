@@ -19,7 +19,7 @@
 Поиск при помощи CQL:
 <https://www.sketchengine.eu/documentation/corpus-querying/>
 
-Разметка в корпусе: (Demeke & Getachew 2006)[https://www.researchgate.net/profile/Girma-Demeke/publication/237553785_Manual_Annotation_of_Amharic_News_Items_with_Part-of-Speech_Tags_and_its_Challenges/links/57045f2308ae74a08e246382/Manual-Annotation-of-Amharic-News-Items-with-Part-of-Speech-Tags-and-its-Challenges.pdf]
+Разметка в корпусе: [Demeke & Getachew 2006](https://www.researchgate.net/profile/Girma-Demeke/publication/237553785_Manual_Annotation_of_Amharic_News_Items_with_Part-of-Speech_Tags_and_its_Challenges/links/57045f2308ae74a08e246382/Manual-Annotation-of-Amharic-News-Items-with-Part-of-Speech-Tags-and-its-Challenges.pdf)
 
 ## About XML (Extensible Markup Language)
 <https://www.w3schools.com/xml/xml_whatis.asp>
