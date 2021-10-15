@@ -21,6 +21,8 @@
 
 [Семинар №5. Html-разметка](https://polyatomson.github.io/kili_ethiopia/seminars/s5)
 
+[Семинар №6. Лингвистические корпуса](https://polyatomson.github.io/kili_ethiopia/seminars/s6)
+
 ### Домашние задания
 
 **[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz/dz1)**
