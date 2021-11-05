@@ -23,6 +23,11 @@
 
 [Семинар №6. Лингвистические корпуса](https://polyatomson.github.io/kili_ethiopia/seminars/s6)
 
+[Семинар №7. Поиск по тексту](https://polyatomson.github.io/kili_ethiopia/seminars/s7)
+
+[Семинар №8. Разметка в ELAN](https://polyatomson.github.io/kili_ethiopia/seminars/s8)
+
+
 ### Домашние задания
 
 **[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz/dz1)**
