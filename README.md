@@ -27,7 +27,7 @@
 
 [Семинар №8. Разметка в ELAN](https://polyatomson.github.io/kili_ethiopia/seminars/s8)
 
-[Семинар №8. Морфологическая разметка](https://polyatomson.github.io/kili_ethiopia/seminars/s9)
+[Семинар №9. Морфологическая разметка](https://polyatomson.github.io/kili_ethiopia/seminars/s9)
 
 ### Домашние задания
 
