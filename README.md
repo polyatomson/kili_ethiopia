@@ -29,6 +29,7 @@
 
 [Семинар №9. Морфологическая разметка](https://polyatomson.github.io/kili_ethiopia/seminars/s9)
 
+
 ### Домашние задания
 
 **[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz/dz1)**
@@ -42,6 +43,10 @@
 **[ДЗ №3](https://polyatomson.github.io/kili_ethiopia/dz/dz3)**
 
 Вывешено 05:00 10-го октября. Дедлайн — 23:00 16-го октября
+
+**[ДЗ №4](https://polyatomson.github.io/kili_ethiopia/dz/dz4)**
+
+Дедлайн – 23:00 19 ноября
 
 ### Оценки
 
