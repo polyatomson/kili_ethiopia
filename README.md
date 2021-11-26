@@ -29,6 +29,9 @@
 
 [Семинар №9. Морфологическая разметка](https://polyatomson.github.io/kili_ethiopia/seminars/s9)
 
+[Семинар №10. Работа с пользовательским корпусом](https://polyatomson.github.io/kili_ethiopia/seminars/s10)
+
+[Семинар №11. Инструменты для глоссирования](https://polyatomson.github.io/kili_ethiopia/seminars/s11)
 
 ### Домашние задания
 
