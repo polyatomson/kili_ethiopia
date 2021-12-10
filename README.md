@@ -33,6 +33,10 @@
 
 [Семинар №11. Инструменты для глоссирования](https://polyatomson.github.io/kili_ethiopia/seminars/s11)
 
+[Семинар №12. Анализ текста в Voyant Tools](https://polyatomson.github.io/kili_ethiopia/seminars/s12)
+
+[Семинар №13. Анализ текста в Voyant Tools](https://polyatomson.github.io/kili_ethiopia/seminars/s13)
+
 ### Домашние задания
 
 **[ДЗ №1](https://polyatomson.github.io/kili_ethiopia/dz/dz1)**
@@ -50,6 +54,14 @@
 **[ДЗ №4](https://polyatomson.github.io/kili_ethiopia/dz/dz4)**
 
 Дедлайн – 23:00 19 ноября
+
+**[ДЗ №5](https://polyatomson.github.io/kili_ethiopia/dz/dz5)**
+
+Дедлайн — 24:00 15 ноября
+
+**[ДЗ №6](https://polyatomson.github.io/kili_ethiopia/dz/dz6)**
+
+Дедлайн — 24:00 20 ноября
 
 ### Оценки
 
