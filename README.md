@@ -35,7 +35,7 @@
 
 [Семинар №12. Анализ текста в Voyant Tools](https://polyatomson.github.io/kili_ethiopia/seminars/s12)
 
-[Семинар №13. Анализ текста в Voyant Tools](https://polyatomson.github.io/kili_ethiopia/seminars/s13)
+[Семинар №13. GeoJSON](https://polyatomson.github.io/kili_ethiopia/seminars/s13)
 
 ### Домашние задания
 
