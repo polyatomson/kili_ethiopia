@@ -57,7 +57,7 @@
 
 **[ДЗ №5](https://polyatomson.github.io/kili_ethiopia/dz/dz5)**
 
-Дедлайн — 24:00 15 ноября
+Дедлайн — 24:00 16 ноября
 
 **[ДЗ №6](https://polyatomson.github.io/kili_ethiopia/dz/dz6)**
 
