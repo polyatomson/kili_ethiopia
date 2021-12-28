@@ -63,6 +63,14 @@
 
 Дедлайн — 24:00 28 декабря
 
+**[ДЗ №7 (факультативное). GeoJSON](https://polyatomson.github.io/kili_ethiopia/dz/dz7)**  
+
+Вывешено 18:45 28 декабря. Дедлайн — 16:20 14 января
+
+**[ДЗ №8 (факультативное PRO). Поиск по параллельному корпусу](https://polyatomson.github.io/kili_ethiopia/dz/dz8)** 
+
+Скоро будет опубликовано. Дедлайн — 16:20 14 января
+
 ### Оценки
 
 <https://docs.google.com/spreadsheets/d/1zB96Vz2pyA59865OWXXzCWTeNonGwtVZf8vsY6XfqOE/edit?usp=sharing>
