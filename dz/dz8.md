@@ -15,9 +15,16 @@
 
 При запуске кода в диалоговом окне должно появляться сообщение, предлагающее ввести запрос. После ввода строки программа должна отобразить число найденных в корпусе вхождений и либо показать на экране, либо выгрузить в специальный файл примеры этих вхождений.
 
+>Вам могут понадобиться: 
+>
+>Массивы
+>Словари
+>Модуль re для работы с регулярными выражениями
+
 **Примеры работы программы**
 
-``` Введите запрос
+``` 
+Введите запрос
 university
 Число вхождений:  5 
 
@@ -36,9 +43,9 @@ this fascination continued when i went to university, where i especially enjoyed
 "በዩኒቨርሲቲ ሊገኙ የማይችሉ በረከቶች" የሚለውን ተመልከት።
 see the box "gaining benefits unattainable at the university." 
 
->>> ```
+>>>
 
-``` Введите запрос
+Введите запрос
 moscow
 Число вхождений:  1 
 
@@ -46,7 +53,7 @@ moscow
 a court in moscow today sentenced american businessman edmund pope to 20 years in jail. 
 
 >>> 
-```
+
 Введите запрос
 exchange
 Число вхождений:  3 
@@ -60,9 +67,3 @@ north korea offered to drop its nuclear and missile programs in exchange for sec
 ኢትዮጵያንና ሴባን በአንተ ምትክ ሰጥቻለሁ።
 ethiopia and seba in exchange for you. 
 ```
-
->Вам могут понадобиться: 
->
->Массивы
->Словари
->Модуль re для работы с регулярными выражениями
