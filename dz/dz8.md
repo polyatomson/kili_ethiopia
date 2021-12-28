@@ -67,3 +67,4 @@ north korea offered to drop its nuclear and missile programs in exchange for sec
 ኢትዮጵያንና ሴባን በአንተ ምትክ ሰጥቻለሁ።
 ethiopia and seba in exchange for you. 
 ```
+>>>
